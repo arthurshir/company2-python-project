@@ -1,4 +1,4 @@
-# mLab Coding Challenge
+# Company2 Coding Challenge
 **Author**: Arthur Shir
 
 **Development Duration**: 4:33PM - 6:39PM
